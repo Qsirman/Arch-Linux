@@ -1,6 +1,6 @@
 # TouchPad(LibInput)
 ### Why is LibInput?
-#### I didn't install any desktop environment like KDE etc.So the touchpad is really hard to use.Some people may mention syntatics,but its `wiki page says that it will not be upgrade so much.`And it't recommanded to use libinput to configure touchpad so here we are.
+#### I didn't install any desktop environment like KDE etc.So the touchpad is really hard to use.Some people may mention syntatics,but its wiki page says that `it will not be upgrade so much.`And it't recommanded to use libinput to configure touchpad so here we are.
 
 ### Install
 ```
