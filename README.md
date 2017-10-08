@@ -1,3 +1,3 @@
 # Arch-Linux
 
-## [TouchPad](file:///touchpad.md) 
+## [TouchPad](https://github.com/Qsirman/Arch-Linux/blob/master/touchpad.md) 
