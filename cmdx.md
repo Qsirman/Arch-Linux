@@ -11,3 +11,13 @@ sudo pacman -S eog
 ```
 eog $(PATH OF YOUR FILE)
 ```
+
+## PDF(Okular)
+### Install
+```
+sudo pacman -S okular
+```
+### Usage
+```
+okular $(PATH OF YOUR FILE)
+```
