@@ -2,6 +2,9 @@
 ## [ACPI](https://github.com/Qsirman/Arch-Linux/blob/master/acpi.md)
 ### Show you how to check out your battery usage in command line!
 
+## [AUTOX](https://github.com/Qsirman/Arch-Linux/blob/master/autox.md)
+### Show you how to auto-start graphic interface only with `xorg` and `WM`(windows manager)
+
 ## [CAT](https://github.com/Qsirman/Arch-Linux/blob/master/cat.md)
 ### Show you how to do some paper things in a command line!
 
