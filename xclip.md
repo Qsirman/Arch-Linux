@@ -9,9 +9,16 @@ sudo pacman -S xclip
 ```
 
 ## Usage
-### Just copy a file's contains into OS's buffer
+### Just copy a file's contains into terminal 
 ```
 > xclip -i $(THE PATH OF YOUR FILE)
 ```
-#### Then you just use `CTRL+V` or `SHIFT+INSERT` etc. keys to paste what you have copied.
+#### Then you just use `CTRL+SHIFT+V` or `SHIFT+INSERT` etc. keys to paste what you have copied.
+#### ***WARNNING*** PLEASE WRITE THE WRITE PATH.IF THE FILE IS UNDER THE CURRENT PATH,PLEASE ADD `./` BEFORE IT.FOR EXAMPLE `xclip -i ./hello.c`
 #### If you want,you can configure it as a conbined keys.
+
+
+### Copy the file's contains into browser or other windows.
+```
+xclip -sel clip < file
+```
